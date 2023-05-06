@@ -16,3 +16,4 @@
 
 ## configs
 ### Configuraciones
+- git: correo y usuario
